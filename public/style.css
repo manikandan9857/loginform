@@ -1,0 +1,40 @@
+/* CSS Document */
+.main{
+	padding: 10px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-left:400px;
+	
+}
+
+.main h1{
+	font-size:40px;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	left:auto;
+	
+	
+}
+
+input{
+	font-family:Arial, Helvetica, sans-serif;
+	width:50%;
+	font-size:20px;
+	padding:12px;
+	margin:8px 0;
+	border:thin #33CCFF;
+	border-bottom:solid #CCCCFF
+	
+}
+
+input[type=submit]{
+	font-family:Arial, Helvetica, sans-serif;
+	width:52%;
+	background-color:#663399;
+	border:none;
+	color:#FFFFFF;
+	padding: 16px 32px;
+	margin:4px 2px;
+	border-radius: 10px;
+	
+
+}
